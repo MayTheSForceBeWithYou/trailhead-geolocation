@@ -1,4 +1,5 @@
-# SFDX  App
+# SFDX Trailhead App - Geolocation
+Trailhead module on SalesforceDX
 
 ## Dev, Build and Test
 
@@ -10,5 +11,3 @@
 
 
 ## Issues
-
-
